@@ -17,3 +17,16 @@ chrome.runtime.onInstalled.addListener(function() {
 chrome.runtime.onSuspend.addListener(function() { 
         // Do some simple clean-up tasks.
         });
+
+chrome.browserAction.onClicked.addListener(function(tab) {
+    // ...
+    });
+
+chrome.action.onClicked.addListener(tab => {
+    chrome.windows.create({
+        url: chrome.runtime.getURL("index.html"),
+        type: "popup" //No Address bar
+        //In here you can also add constrain for the window
+        //This is for manifest v3
+    })
+);
