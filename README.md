@@ -7,6 +7,7 @@
 
 ![image](https://github.com/SlideShowGames/Open-ReSENET/assets/108354503/01050c18-bc09-4596-a102-3f6f6304ffe4)
 <p></p>
+
 ![image](https://github.com/SlideShowGames/Open-ReSENET/assets/108354503/a1ad0d57-66cd-472b-bbce-cae4d1c52bf7)
 
 <p>And this is if you play on a supported version</p>
