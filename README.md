@@ -3,4 +3,18 @@
 <p>ReSENET is the unoffical chrome extension port of Senet Online. For now this will only work on Chrome OS with Native client (NaCL) active since I do not have the client's source code. You could play this on other platforms if you downgrade chrome to under v122</p>
 <p></p>
 ![image](https://github.com/SlideShowGames/Open-ReSENET/assets/108354503/93818eb4-31d5-4d1e-bfc9-0408b0506ac8)
+
 <p>This is what will happened if you try to play on an unsupported version.</p>
+
+<h1>How do I install it?</h1>
+1. Go to the releases tab and download the zip that says resenet-[VERSION-NUMBER].zip
+
+2. Unzip the zip
+
+3. go to chrome://extensions then toggle the developer mode option.
+
+4.  click load unpacked and navigate to the folder containing the extension. (IF YOU MOVE THE FOLDER THE EXTENSION WILL BE UNUSABLE SO PUT IT SOMEWHERE YOU WONT TOUH)
+   ![image](https://github.com/SlideShowGames/Open-ReSENET/assets/108354503/9c33f21f-b193-4077-87c5-8bf73d8a10a5)
+
+
+5.  You're done! now go to chrome-extension://[ID-OF-OPENRESENET]/index.html and make sure in your flags you have native client enabled!
