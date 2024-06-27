@@ -18,4 +18,5 @@
 
 
 5.  You're done! now go to chrome-extension://[ID-OF-OPENRESENET]/index.html and make sure in your flags you have native client enabled!
-   ![image](https://github.com/SlideShowGames/Open-ReSENET/assets/108354503/9c33f21f-b193-4077-87c5-8bf73d8a10a5)
+
+![image](https://github.com/SlideShowGames/Open-ReSENET/assets/108354503/61e499bf-db4f-484b-a837-3669d01f6aab)
