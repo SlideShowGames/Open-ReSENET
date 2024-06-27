@@ -4,7 +4,7 @@
 <p></p>
 <p>Windows currently can be opened but not played. Linux can't downgrade chrome.</p>
 <p></p>
-<p>This is what will happen if you try to play on an unsupported version.(Latest version of Chromium on Linux)</p>
+<p>This is what will happen if you try to play on an unsupported version. (Latest version of Chromium on Linux)</p>
 
 ![image](https://github.com/SlideShowGames/Open-ReSENET/assets/108354503/01050c18-bc09-4596-a102-3f6f6304ffe4)
 <p></p>
