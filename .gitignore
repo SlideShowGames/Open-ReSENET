@@ -3,3 +3,5 @@ _platform_specific/x86-32/Output/str-client_x32.txt
 _platform_specific/x86-32/Output/hex-client_x32.txt
 _platform_specific/x86-64/Output/hex-client_x64.txt
 _platform_specific/x86-64/Output/str-client_x64.txt
+_platform_specific/x86-64/client_x64.s
+_platform_specific/x86-32/client_x86.s
