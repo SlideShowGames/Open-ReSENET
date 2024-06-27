@@ -5,7 +5,7 @@
 
 ![image](https://github.com/SlideShowGames/Open-ReSENET/assets/108354503/01050c18-bc09-4596-a102-3f6f6304ffe4)
 
-<p>This is what will happened if you try to play on an unsupported version.</p>
+<p>This is what will happen if you try to play on an unsupported version.</p>
 
 <h1>How do I install it?</h1>
 1. Go to the releases tab and download the zip that says resenet-[VERSION-NUMBER].zip
