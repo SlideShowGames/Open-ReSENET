@@ -16,7 +16,6 @@
 
 4.  click load unpacked and navigate to the folder containing the extension. (IF YOU MOVE THE FOLDER THE EXTENSION WILL BE UNUSABLE SO PUT IT SOMEWHERE YOU WONT TOUH)
 
-
 5.  You're done! now go to chrome-extension://[ID-OF-OPENRESENET]/index.html and make sure in your flags you have native client enabled!
 
-![image](https://github.com/SlideShowGames/Open-ReSENET/assets/108354503/61e499bf-db4f-484b-a837-3669d01f6aab)
+![image](https://github.com/SlideShowGames/Open-ReSENET/assets/108354503/7d790343-2ab3-4df1-a11e-ccb2777c7545)
