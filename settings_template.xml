@@ -10,11 +10,11 @@
   </DisplayMode>
  </Graphics>
  <Network>
-  <serverHost>server.senetonline.com</serverHost>
+  <serverHost>slideshowgames.github.io/resenetserver/server</serverHost>
   <serverPort>50001</serverPort>
   <GoogleAuthentication>
    <authServerUrl>https://accounts.google.com/o/oauth2/auth</authServerUrl>
-   <redirectUri>https://auth.senetonline.com/cgi-bin/google_login.py</redirectUri>
+   <redirectUri>https://slideshowgames.github.io/resenetserver/auth</redirectUri>
    <clientId>753679926037-vg7ufco5r896f0j1ksn1t65ipbnklmvi.apps.googleusercontent.com</clientId>
   </GoogleAuthentication>
   <PaypalPurchase>
